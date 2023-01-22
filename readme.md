@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <h1>DevChewbacca</h1>
   <a target="_blank" href="https://github.com/DevChewbacca"><img src="https://komarev.com/ghpvc/?username=DevChewbacca&color=blue" alt="Chewbacca GitHub" width="120" /></a>&nbsp;&nbsp; 
 </div>
 
