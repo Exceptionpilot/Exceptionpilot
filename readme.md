@@ -21,4 +21,4 @@
 
 Give a ⭐️ if you like a project!
 
-[Email](mailto:sebastian@zaengler.net?subject=Hi "Hi!") | [Website](https://travelgeeks.world "Welcome")
+[Email](mailto:sebastian@zaengler.net?subject=Hi "Hi!")
